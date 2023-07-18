@@ -1,4 +1,4 @@
 # PiSentry
-Ansible provisioned Raspberry Pi monitoring suite.
+Ansible provisioned monitoring suite, designed to be run on a Raspberry Pi.
 
 ![PiSentry](docs/images/logo.png)
